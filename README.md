@@ -1,4 +1,4 @@
-# My custom tiny "operating systems"
+# My custom tiny "operating systems" in C
 
 ## Repository
 
